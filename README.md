@@ -1,12 +1,32 @@
-<h1 align="center">👋 Hello! I'm Moshiur Islam</h1>
+<div align="center">
+  <img height="150" src="https://i.ibb.co.com/VwMy8cq/Picsart-25-01-08-16-18-47-841.jpg"  />
+</div>
 
 ###
 
-<p align="left">Junior Front-End Developer</p>
+<div align="left">
+  <a href="linkedin.com/in/moshiur-islam-631199342" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/+8801327023639" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+</div>
 
 ###
 
-<h2 align="center">About me</h2>
+<h1 align="left">👋 Hello! I'm Moshiur Islam</h1>
+
+###
+
+<p align="left">Front-End Developer</p>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -14,50 +34,42 @@
 
 ###
 
-<h2 align="center">I code with</h2>
+<h3 align="left">I code with</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning front-end development, focusing on React, Firebase, and MongoDB.<br>🎯 Goals: To build impactful and interactive web applications, contribute to open-source projects, and continuously improve my coding skills.<br>🎲 Fun fact: I love playing video games, and my favorite one is free fire. It inspires me to think critically and creatively while coding.</p>
-
-###
-
-<h2 align="center">social links</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
 
-<h2 align="center">Relevant Stats</h2>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning front-end development, focusing on mastering React.<br>🎯 Goals: To build impactful and interactive web applications, contribute to open-source projects, and continuously improve my coding skills.<br>🎲 Fun fact: I love playing video games, and my favorite one is free fire. It inspires me to think critically and creatively while coding.</p>
 
 ###
 
-<p align="left">🌍 Programming Languages: JavaScript, HTML, CSS,<br>📅 Latest Project: GameZone (Game review platform)</p>
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<p align="left">📊 Contributions: 20+ pull requests (open-source projects)<br>🌍 Programming Languages: JavaScript, HTML, CSS,<br> 📈Contributed Repositories: 158<br>📅 Latest Project: Chill Gamer (Game review platform)</p>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Moshiur-15&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
