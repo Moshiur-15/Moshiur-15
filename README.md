@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Front-End Developer</p>
+<p align="left">junior mern stack developer</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">I code with</h3>
+<h3 align="left">🖥️ I code with</h3>
 
 ###
 
@@ -49,11 +49,13 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
 </div>
 
 ###
@@ -62,16 +64,17 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats</h3>
 
 ###
 
-<p align="left">📊 Contributions: 20+ pull requests (open-source projects)<br>🌍 Programming Languages: JavaScript, HTML, CSS,<br> 📈Contributed Repositories: 158<br>📅 Latest Project: Chill Gamer (Game review platform)</p>
+<p align="left">📊 Contributions: 20+ pull requests (open-source projects)<br>🌍 Programming Languages: JavaScript, HTML, CSS,<br> 📈Contributed Repositories: 158<br>📅 Latest Project: medi_camp ( medical camp management system )</p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moshiur-15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Moshiur-15&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moshiur-15&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
