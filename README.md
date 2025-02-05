@@ -18,10 +18,6 @@
 
 ###
 
-<h1 align="left">👋  Assalam Alaikum ! I'm Moshiur Islam</h1>
-
-###
-
 <p align="left">junior mern stack developer</p>
 
 ###
