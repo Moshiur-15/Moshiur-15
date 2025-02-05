@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">junior mern stack developer</p>
+<p align="left">Junior mern stack developer</p>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats</h3>
+<h3 align="left">🔥My Stats</h3>
 
 ###
 
