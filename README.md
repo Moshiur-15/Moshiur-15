@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="150" src="[file:///C:/Users/pc/Downloads/Assalam%20Alaikum%20!%20I'm%20Moshiur%20Islam.png](https://i.ibb.co.com/mVQ6HZBH/git-hub-banner.png)"  />
+<div align="left">
+  <img height="" src="https://i.ibb.co.com/mVQ6HZBH/git-hub-banner.png"  />
 </div>
 
 ###
