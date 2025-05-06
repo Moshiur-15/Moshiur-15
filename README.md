@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Hi! I'm Moshiur Islam, a passionate front-end developer currently pursuing my diploma. I enjoy solving complex problems and building creative, user-friendly web applications. My main tech stack includes React, Firebase, and MongoDB.</p>
+<p align="left">Hi! I'm Moshiur Islam, a passionate Junior mern stack developer currently pursuing my diploma. I enjoy solving complex problems and building creative, user-friendly web applications. My main tech stack includes React, Firebase, and MongoDB.</p>
 
 ###
 
