@@ -81,13 +81,7 @@
 ###
 
 ### 🐍 GITHUB CONTRIBUTION SNAKE
-
-<p align="center">
-  ### 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/Moshiur-15/Moshiur-15/blob/output/github-contribution-grid-snake.svg)
-
-</p>
+![Snake animation](https://github.com/Moshiur-15/Moshiur-15/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
