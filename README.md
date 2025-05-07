@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/mVQ6HZB/git-hub-banner.png" alt="GitHub Banner" />
+  <img height="" src="https://i.ibb.co.com/mVQ6HZBH/git-hub-banner.png"  />
 </div>
 
 ###
@@ -83,7 +83,10 @@
 ### 🐍 GITHUB CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Moshiur-15/Moshiur-15/output/snake.svg" alt="Snake animation" />
+  ### 🐍 GitHub Contribution Snake
+
+![Snake animation](https://github.com/Moshiur-15/Moshiur-15/blob/output/github-contribution-grid-snake.svg)
+
 </p>
 
 ###
