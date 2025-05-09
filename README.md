@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://i.ibb.co.com/mVQ6HZBH/git-hub-banner.png"  />
+  <img height="" src="https://i.ibb.co.com/mVQ6HZBH/git-hub-banner.png" />
 </div>
 
 ###
@@ -54,10 +54,10 @@
 ### ✨ FUN FACTS
 
 <p align="left">
-  ✅ CREATING BUGS SINCE 2024<br>
-  📚 CURRENTLY LEARNING ADVANCED FRONT-END DEVELOPMENT – FOCUSING ON MASTERING REACT<br>
-  🎯 GOALS: BUILD IMPACTFUL WEB APPLICATIONS, CONTRIBUTE TO OPEN-SOURCE PROJECTS, AND LEVEL UP MY FULL-STACK SKILLS<br>
-  🎮 FUN FACT: I LOVE PLAYING VIDEO GAMES—MY FAVORITE IS <strong>FREE FIRE</strong>. IT INSPIRES ME TO THINK CREATIVELY WHILE CODING.
+  🐞 <strong>CREATING & SOLVING BUGS SINCE 2024</strong><br>
+  📘 <strong>CURRENTLY MASTERING:</strong> Advanced React Concepts, Custom Hooks, and UI Animation<br>
+  🛠️ <strong>GOALS:</strong> Build real-world full-stack applications, contribute to open-source, and grow as a MERN developer<br>
+  🎮 <strong>GAMING BOOSTS MY BRAIN:</strong> Free Fire isn’t just fun—it's my source of creative problem-solving! 🔥
 </p>
 
 ###
@@ -65,27 +65,21 @@
 ### 🔥 GITHUB STATS
 
 <p align="left">
-  📊 20+ PULL REQUESTS ON OPEN-SOURCE PROJECTS<br>
-  🌐 MAIN LANGUAGES: JAVASCRIPT, HTML, CSS<br>
-  📁 CONTRIBUTED TO 158+ REPOSITORIES<br>
-  🚀 LATEST PROJECT: <strong>MEDI_CAMP</strong> – A MEDICAL CAMP MANAGEMENT SYSTEM
+  🔄 <strong>20+</strong> Pull Requests on Open-Source Projects<br>
+  💻 <strong>Primary Languages:</strong> JavaScript, HTML, CSS<br>
+  📦 <strong>Contributed to:</strong> 158+ Public & Private Repositories<br>
+  🚀 <strong>Latest Build:</strong> <strong>MEDI_CAMP</strong> – A smart and responsive Medical Camp Management System built with the MERN Stack
 </p>
 
 ###
+
+### 📊 STATS SNAPSHOT
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moshiur-15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
   <img src="https://streak-stats.demolab.com?user=Moshiur-15&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
 </div>
 
-###
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Moshiur-15/Moshiur-15/output/snake.svg" />
-
-###
 ###
 
 ### 📈 ACTIVITY GRAPH
