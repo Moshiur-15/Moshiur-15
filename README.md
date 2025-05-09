@@ -79,11 +79,6 @@
 </div>
 
 ###
-
-### 🐍 GITHUB CONTRIBUTION SNAKE
-<div align="left">
-</div>
-
 ###
 
 <br clear="both">
