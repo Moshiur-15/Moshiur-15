@@ -67,7 +67,7 @@
 <p align="left">
   🔄 <strong>20+</strong> Pull Requests on Open-Source Projects<br>
   💻 <strong>Primary Languages:</strong> JavaScript, HTML, CSS<br>
-  📦 <strong>Contributed to:</strong> 158+ Public & Private Repositories<br>
+  📦 <strong>Contributed to:</strong> 110+ Public & Private Repositories<br>
   🚀 <strong>Latest Build:</strong> <strong>MEDI_CAMP</strong> – A smart and responsive Medical Camp Management System built with the MERN Stack
 </p>
 
