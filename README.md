@@ -79,17 +79,6 @@
   <img src="https://streak-stats.demolab.com?user=Moshiur-15&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
 </div>
 
-###
-<div align="left">
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Moshiur-15/Moshiur-15/output/snake.svg" alt="Snake animation" />
-
-###
 
 ### 📈 ACTIVITY GRAPH
 
