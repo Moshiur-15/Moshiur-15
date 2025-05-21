@@ -80,6 +80,16 @@
 </div>
 
 ###
+<div align="left">
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Moshiur-15/Moshiur-15/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### 📈 ACTIVITY GRAPH
 
