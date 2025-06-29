@@ -83,7 +83,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moshiur-15&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+---
 
+### 📊 STATS SNAPSHOT
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Moshiur-15&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+</div>
 ---
 
 ## 📈 CONTRIBUTION GRAPH
@@ -91,17 +97,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moshiur-15&radius=16&theme=react&area=true&hide_border=true" height="300" alt="Contribution Graph" />
 </div>
-
----
-
-## 🚀 FEATURED PROJECTS
-
-### [MEDI_CAMP](https://github.com/Moshiur-15/medi-camp) 
-**Medical Camp Management System**
-- 🏥 Complete MERN Stack application for managing medical camps
-- 🔐 User authentication with Firebase
-- 📱 Responsive design with modern UI/UX
-- 💾 MongoDB database integration
 
 ---
 
