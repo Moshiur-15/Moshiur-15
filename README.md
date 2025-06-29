@@ -1,84 +1,112 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/mVQ6HZBH/git-hub-banner.png" alt="GitHub Banner" />
+  <img height="200" src="https://i.ibb.co.com/mVQ6HZBH/git-hub-banner.png" alt="Moshiur Islam - MERN Stack Developer" />
 </div>
 
-##
+---
 
 <div align="left">
   <a href="https://www.linkedin.com/in/moshiur-islam28/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/+8801327023639" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp" />
   </a>
 </div>
 
-##
+---
 
-### 👨‍💻 ABOUT ME
+<p align="left">🚀 <strong>JUNIOR MERN STACK DEVELOPER</strong></p>
 
-Hi, I’m **Moshiur Islam**, a passionate **Junior MERN Stack Developer** from **Patuakhali, Bangladesh**, currently pursuing a diploma in **Computer Science & Technology**.  
-I specialize in building clean, responsive, and interactive full-stack web applications using **React**, **Node.js**, **MongoDB**, and **Firebase**.
+---
 
-- 💡 Always eager to learn and explore new technologies.
-- 👨‍🎓 Currently mastering: **Advanced React**, **UI Animation**, and **Backend APIs**.
-- 🎯 Goal: Build real-world apps, contribute to open source, and grow as a full-stack developer.
+## 👨‍💻 ABOUT ME
 
-##
+<p align="left">
+  Hi! I'm <strong>MOSHIUR ISLAM</strong>, an enthusiastic Junior MERN Stack Developer currently pursuing a Diploma in Computer Science and Technology.
+  I enjoy solving complex problems and crafting creative, user-friendly web applications.  
+  My main tech stack includes React, Firebase, MongoDB, and Node.js.
+</p>
 
-### 💻 TECH STACK
+---
+
+## 💻 TECH STACK
 
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="Firebase" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="Next.js" />
 </div>
 
-##
+---
 
-### 🚀 FEATURED PROJECTS
+## ✨ FUN FACTS
 
-- 📰 [**NextEra Blog**](https://nextera-blog-me.netlify.app/)  
-  A blog platform with secure authentication, search, categories, wishlist, and UI animations.  
-  `React`, `Node.js`, `Express`, `MongoDB`, `Framer Motion`, `TailwindCSS`  
-  [Client](https://github.com/Moshiur-15/nextra-blog-client) • [Server](https://github.com/Moshiur-15/nextra-blog-server)
+<p align="left">
+  🐞 <strong>Creating & solving bugs since 2024</strong><br>
+  📘 <strong>Currently mastering:</strong> Advanced React Concepts, Custom Hooks, and UI Animation<br>
+  🛠️ <strong>Goals:</strong> Build real-world full-stack applications, contribute to open-source, and grow as a MERN developer<br>
+  🎮 <strong>Gaming boosts my brain:</strong> Free Fire isn't just fun—it's my source of creative problem-solving! 🔥
+</p>
 
-- 🏥 [**Medi Camp (MCMS)**](https://mcms-me.netlify.app/)  
-  A medical camp management system with organizer dashboards, Stripe payments, and real-time camp updates.  
-  `React`, `Node.js`, `MongoDB`, `Stripe`, `Recharts`, `TailwindCSS`  
-  [Client](https://github.com/Moshiur-15/Medi-Camp-Client) • [Server](https://github.com/Moshiur-15/Medi-Camp-Server)
+---
 
-- 🎮 [**GameZone**](https://gamezone-me.netlify.app/)  
-  A game review platform with user authentication, real-time comments, and CRUD for reviews.  
-  `React`, `MongoDB`, `Express`, `TailwindCSS`  
-  [GitHub Repo](https://github.com/Moshiur-15/game-zone)
+## 🔥 GITHUB HIGHLIGHTS
 
-##
+<p align="left">
+  🔄 <strong>20+</strong> Pull Requests on Open-Source Projects<br>
+  💻 <strong>Primary Languages:</strong> JavaScript, HTML, CSS<br>
+  📦 <strong>Contributed to:</strong> 110+ Public & Private Repositories<br>
+  🚀 <strong>Latest Build:</strong> <strong>MEDI_CAMP</strong> – A smart and responsive Medical Camp Management System built with the MERN Stack
+</p>
 
-### 📈 GITHUB STATS
+---
+
+## 📊 GITHUB STATS
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Moshiur-15&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moshiur-15&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Moshiur-15&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
 </div>
 
-##
-
-### 📊 ACTIVITY GRAPH
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moshiur-15&radius=16&theme=react&area=true" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moshiur-15&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-##
+---
+
+## 📈 CONTRIBUTION GRAPH
 
 <div align="center">
-  🔥 Thanks for visiting! Let's connect and create something great together!  
-  👉 [Portfolio](https://moshiur-15.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/moshiur-islam28/) • [GitHub](https://github.com/Moshiur-15)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moshiur-15&radius=16&theme=react&area=true&hide_border=true" height="300" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+### [MEDI_CAMP](https://github.com/Moshiur-15/medi-camp) 
+**Medical Camp Management System**
+- 🏥 Complete MERN Stack application for managing medical camps
+- 🔐 User authentication with Firebase
+- 📱 Responsive design with modern UI/UX
+- 💾 MongoDB database integration
+
+---
+
+<div align="center">
+  <h3>✨ Thanks for visiting my profile! Let's connect and build something amazing together. ✨</h3>
+  
+  [![](https://visitcount.itsvg.in/api?id=Moshiur-15&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
