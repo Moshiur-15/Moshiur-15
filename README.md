@@ -73,23 +73,12 @@
 
 ---
 
-## 📊 GITHUB STATS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moshiur-15&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Moshiur-15&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moshiur-15&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
----
-
 ### 📊 STATS SNAPSHOT
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Moshiur-15&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
 </div>
+
 ---
 
 ## 📈 CONTRIBUTION GRAPH
