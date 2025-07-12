@@ -14,7 +14,7 @@
 ## 🧾 ABOUT ME
 
 <p>
-  I'm <strong>Moshiur Islam</strong>, a passionate <strong>Frontend Developer</strong> from <strong>Bangladesh</strong>, always curious to learn and grow.<br>
+  I'm <strong>Moshiur Islam</strong>, a <strong>Frontend Developer</strong> from <strong>Bangladesh</strong>, always curious to learn and grow.<br>
   I focus on building fast, responsive, and beautiful web apps using modern tech.<br>
   Started my dev journey in <strong>2023</strong>, and there’s no looking back since! 😎  
 </p>
