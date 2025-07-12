@@ -19,16 +19,15 @@
   Started my dev journey in <strong>2023</strong>, and there’s no looking back since! 😎  
 </p>
 
-💡 Currently leveling up with: **TypeScript & Advanced React**  
-🌱 Exploring: **Node.js, Express, MongoDB**  
-🎯 Dream: Become a creative & skilled **MERN Stack Developer**
+💡 Currently sharpening my skills in **TypeScript** and mastering **Advanced React** topics like custom hooks, context API, and performance optimization.  
+🌱 Exploring backend development with **Node.js**, **Express**, **MongoDB**, and **Mongoose** to understand data modeling and API building in depth.  
+🎯 Goal: Become a creative and efficient **MERN Stack Developer** capable of building robust, full-featured applications.
 
 ---
 
 ## ⚡ MY MISSION
 
 - 🌟 Master React.js (Hooks, Reusability, State Logic)
-- 💻 Build high-quality, mobile-first responsive apps
 - 🧠 Learn full-stack development (MERN Stack)
 - 🎯 Share knowledge, write clean code & help others grow
 - 🌍 Make a mark in the dev community through open-source!
@@ -51,15 +50,6 @@
   <img src="https://img.shields.io/badge/Firebase-ffcb2b?style=for-the-badge&logo=firebase&logoColor=black" />
 
 </div>
-
----
-
-## 🎮 FUN SIDE OF ME
-
-- 🐛 I break things to fix them better  
-- 🎮 Free Fire helps me debug with a cool mind 😅  
-- 💬 I explain code to myself like I’m a YouTuber  
-- 🚀 Believe in **Learn. Build. Break. Repeat.**
 
 ---
 
@@ -89,13 +79,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moshiur-15&theme=react-dark&hide_border=true&area=true" height="300" />
 </div>
-
----
-
-## 📦 PROJECT HIGHLIGHT
-
-> ✨ **MEDI_CAMP** – A Smart, Responsive Medical Camp Management System built with the MERN Stack  
-> 🌐 Check it out in my repositories!
 
 ---
 
